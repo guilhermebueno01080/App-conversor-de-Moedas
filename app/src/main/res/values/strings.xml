@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="titulo">Conversor de Moedas</string>
+    <string name="subtitulo">Cotações atualizadas da internet</string>
+    <string name="valor">Valor</string>
+    <string name="de">De</string>
+    <string name="para">Para</string>
+    <string name="inverter">Inverter moedas</string>
+    <string name="resultado">Resultado</string>
+    <string name="taxa">%1$s = %2$s</string>
+    <string name="valor_invalido">Digite um número válido</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="atualizando">Buscando cotações…</string>
+    <string name="cotacao_atual">Cotação de %1$s</string>
+    <string name="cotacao_salva">Sem internet — usando cotação de %1$s</string>
+    <string name="cotacao_aproximada">Sem internet — usando cotação aproximada</string>
+</resources>

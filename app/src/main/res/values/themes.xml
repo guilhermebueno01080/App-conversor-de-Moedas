@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Conversor" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/verde</item>
+        <item name="colorSecondaryContainer">#FFCDEBDB</item>
+        <item name="colorOnSecondaryContainer">#FF0B3D27</item>
+    </style>
+
+    <style name="Theme.Conversor" parent="Base.Theme.Conversor" />
+</resources>
